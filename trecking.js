@@ -1,3 +1,3 @@
-let a = 10
-let b = 20
-console.log(a + b)
+let a = 3;
+let b = 9;
+console.log(a * b);
